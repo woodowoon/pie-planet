@@ -35,4 +35,4 @@ Pie Planet is an adventure game made with Unity2D. (Unity version: 2019.3.9f1) T
 *Programmers*
 
 - [Dayeong Kang (강다영)](https://github.com/tula3and)
-- [Dowoon Woo (우도운)](https://github.com/woodowoon)
+- [Dowoon Woo (우도운)](https://github.com/woodowoon) 
